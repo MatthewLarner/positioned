@@ -1,5 +1,5 @@
 {
-  "name": "position",
+  "name": "positioned",
   "version": "1.0.0",
   "description": "Callback when an element has a position",
   "main": "index.js",
