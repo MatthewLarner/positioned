@@ -16,5 +16,16 @@
     "browserify": "^11.1.0",
     "crel": "^2.1.8",
     "tape": "^4.2.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewLarner/position.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewLarner/position/issues"
+  },
+  "homepage": "https://github.com/matthewLarner/position#readme"
 }
