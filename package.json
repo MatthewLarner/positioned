@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matthewLarner/position.git"
+    "url": "git+https://github.com/matthewLarner/positioned.git"
   },
   "bugs": {
-    "url": "https://github.com/matthewLarner/position/issues"
+    "url": "https://github.com/matthewLarner/positioned/issues"
   },
-  "homepage": "https://github.com/matthewLarner/position#readme"
+  "homepage": "https://github.com/matthewLarner/positioned#readme"
 }
