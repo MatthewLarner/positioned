@@ -1,13 +1,13 @@
 {
   "name": "positioned",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Callback when an element has a position",
   "main": "index.js",
   "scripts": {
     "test": "browserify ./tests -o ./tests/index.browser.js && google-chrome ./tests/index.html",
     "watch": "watchify ./tests -o ./tests/index.browser.js & google-chrome ./tests/index.html"
   },
-  "author": "",
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "laidout": "^1.0.0"
@@ -15,7 +15,7 @@
   "devDependencies": {
     "browserify": "^11.1.0",
     "crel": "^2.1.8",
-    "tape": "^4.2.0"
+    "watchify": "^3.4.0"
   },
   "directories": {
     "test": "tests"
